@@ -31,4 +31,4 @@ Deploy it to the cloud with [Vercel](https://vercel.com/new?utm_source=github&ut
 
 <!-- https://www.youtube.com/watch?v=1ZdFJ0701QI -->
 
-time : 1h14phut
+time : 3h03phut
